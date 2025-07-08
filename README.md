@@ -7,7 +7,7 @@
 - [ ] Search in rotated sorted array (repeat)
 - [ ] Valid Parentheses (repeat)
 - [ ] Generate Parentheses
-- [ ] Copy list with random pointer
+- [x] Copy list with random pointer
 
 ### July 7
 - [ ] Generate Parentheses (repeat)
