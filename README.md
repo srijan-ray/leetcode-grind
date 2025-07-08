@@ -6,7 +6,7 @@
 - [ ] Find minimum in rotated sorted array (repeat)
 - [ ] Search in rotated sorted array (repeat)
 - [ ] Valid Parentheses (repeat)
-- [ ] Generate Parentheses
+- [x] Generate Parentheses
 - [x] Copy list with random pointer
 
 ### July 7
