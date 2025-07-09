@@ -11,14 +11,14 @@
 
 ### July 7
 - [ ] Generate Parentheses (repeat)
-- [ ] Copy list with random pointer (repeat)
+- [x] Copy list with random pointer (repeat)
 - [ ] Time based key value store
 - [ ] Add two numbers
 
 ### July 8
 - [ ] Time based key value store (repeat)
 - [ ] Add two numbers (repeat)
-- [ ] Daily Temperatures
+- [x] Daily Temperatures
 - [ ] LRU cache
 
 ### July 9
